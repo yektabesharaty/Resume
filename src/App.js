@@ -38,6 +38,20 @@ const data = [
           "Reference site about Lorem Ipsum, giving information on its origins, as well as a random Lipsum generator.",
         date: "2012-2015",
       },
+      {
+        university: "Apple Company",
+        degree: "Software Engineer",
+        description:
+          "Reference site about Lorem Ipsum, giving information on its origins, as well as a random Lipsum generator.",
+        date: "2012-2015",
+      },
+      {
+        university: "Apple Company",
+        degree: "Software Engineer",
+        description:
+          "Reference site about Lorem Ipsum, giving information on its origins, as well as a random Lipsum generator.",
+        date: "2012-2015",
+      },
     ],
   },
   {
